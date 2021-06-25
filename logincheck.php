@@ -32,6 +32,8 @@ session_start();
 $_SESSION["Login"]="YES";
 echo "<h1> you are logged in Correctly  </h1>";
  echo "<h3> Choose the following options </h3>";
+
+// <!-- here we go -->
    
 
 
